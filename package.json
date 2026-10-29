@@ -1,0 +1,16 @@
+
+{
+  "name": "dokploy-practica",
+  "version": "1.0.0",
+  "description": "Aplicacion web para la practica de infraestructura TI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
